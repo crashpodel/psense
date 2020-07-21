@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://modest-bell-0c440d.netlify.app/"
 languageCode = "en-us"
 title = "Product Sense by AG"
 theme = "ananke"
