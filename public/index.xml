@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Sense by AG</title>
+    <link>https://modest-bell-0c440d.netlify.app/</link>
+    <description>Recent content on Product Sense by AG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Jul 2020 06:52:46 +0530</lastBuildDate>
+    
+	<atom:link href="https://modest-bell-0c440d.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stop looking for the perfect wireframing tool. Just use Balsamiq.</title>
+      <link>https://modest-bell-0c440d.netlify.app/posts/use-balsamiq-for-wireframing/</link>
+      <pubDate>Tue, 21 Jul 2020 06:52:46 +0530</pubDate>
+      
+      <guid>https://modest-bell-0c440d.netlify.app/posts/use-balsamiq-for-wireframing/</guid>
+      <description>You are in a bind. You are a new founder trying to figure out the UI for your app idea, a solo PM trying to flesh out a feature, or a developer about to embark on the indie lifestyle.
+You need to wireframe. Stat. In the past, you have worked with a designer to help you out with mocks and wireframes, but this time you are on your own.
+So you ask a few friends for advice on a wireframing tool and their answers fall in one of four buckets:</description>
+    </item>
+    
+  </channel>
+</rss>
