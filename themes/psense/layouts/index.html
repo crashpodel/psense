@@ -6,13 +6,15 @@
         <p class="dim">{{ .Content }}</p>
     </div>
 </div>
-<div class="content" style="text-align: center; padding: 32px;">
+<div class="content" style="text-align: center; padding: 32px; padding-bottom:64px">
     <h3>Latest Articles</h3>
     <ul class="article-list">
         {{ range (where .Site.RegularPages "Type" "in" "posts") }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
         {{ end }}
     </ul>
+</div>
+<div style="text-align: center;">
     {{- partial "subscribe.html" . -}}
 </div>    
 {{ end }}

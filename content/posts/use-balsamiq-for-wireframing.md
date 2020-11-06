@@ -38,6 +38,8 @@ Ryan Singer, the Head of Strategy at Basecamp, made the observation that problem
 
 Wireframing is an unknown to known activity and you will have to try out multiple layout ideas to see which one works best. You can’t just solve this in your head, you have to lay it out, see if it makes sense and then decide if you need to iterate or try something else. 
 
+![](/good-wireframing-tool.png)
+
 This is why the ability to express your ideas quickly during the wireframing stage is important. When you do that, you can decide if the layout is right (get clarity), or try something else, that is, keep your options open.
 
 Here is how Balsamiq supports these goals.
@@ -51,6 +53,8 @@ b) a user interface that is all about surfacing these components and helping you
 
 Sketch, Figma and Adobe XD are powerful user interface design tools (and Figma deserves all the love it gets these days), but the truth is that wireframing is not a first-class use case in any of these tools. Their primary interface gives you basic shapes and primitives ike rectangles, circles and text. Yes, you can use them to make any kind of user interface component. But you don’t want to spend time have time for that? 
 
+![](/balsamiq-components.png)
+
 And before you say the words UIKit or plug-in, don’t forget that that just means you now have to spend more time looking for the perfect UIKit. We are looking for progress, not perfection.
 
 ## Balsamiq lets you skip the details when you need to.
@@ -58,7 +62,11 @@ And before you say the words UIKit or plug-in, don’t forget that that just mea
 When you are still figuring out what the different screens of your app are, you don’t always know exactly what copy you are going to write or what interface element you are going to use. 
 This is why I love Balsamiq’s placeholders components: “Block of Text”, “Line of Text” and “Image placeholder.” 
 
+![](/balsamiq-placeholders.png)
+
 By using these along with just a few other components, you can make rapid progress, And then when you are ready to detail things out further, you can go back and replace it with real content.
+
+![](/sign-up-flow-example.png)
 
 If you want to take a look at this file, download it here.
 
@@ -72,6 +80,8 @@ You will end up spending a lot of time on just a few screens fine-tuning the vis
 If you are feeling design tool FOMO, remember that just because you are using Balsamiq doesn’t mean you can’t use other tools!
 For example, if you are solo founder, you can start with rough ideas on paper, write things out in Google docs, wireframe in Balsamiq, and then use a no-code tool to build your product (or hand off the document and the wireframes to an agency).
 If you are a developer, you might like start by tinkering. So you start with coding a quick & dirty prototype code, explore specific interface ideas (not the whole app) with Balsamiq, and then design directly in the browser using something like Bootstrap or Tailwind CSS.
+
+![](/mix-your-tools.png)
 
 One thing that might be a stumbling block for you is that Balsamiq isn’t free. 
 What I like is that they sell a one-time purchase desktop version that does not need a subscription (Those monthly subscriptions add up, fast!). I’ve been using a version I got in in 2018 and it still works great. 

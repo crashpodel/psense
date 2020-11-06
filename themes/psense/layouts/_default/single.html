@@ -1,8 +1,10 @@
 
 {{ define "main"}}
 {{- partial "header.html" . -}}
-<div id="content" class="content">
-<h1>{{ .Title }}</h1>
+<div id="content" class="content" style="padding-bottom:64px">
+<h1 style="padding-top:32px">{{ .Title }}</h1>
+<p style="text-align: center; color:#6FCF97; padding-bottom:32px;
+">by Ashish Goel <span style="color:#7C8781">on {{ .Date.Format "January 2, 2006" }}</span></p> 
  {{ .Content }}
 </div>
  {{- partial "subscribe.html" . -}}

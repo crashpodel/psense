@@ -43,6 +43,7 @@ h1{
 }
 h2{
     line-height:1.5em;
+    margin-top:2.5em;
 }
 
 .subscribe{
@@ -83,3 +84,9 @@ ul.article-list li{
     outline:none;
     
 }
+
+.alt-heading{
+    color: #6FCF97;
+}
+
+p img{margin:1em 0;}
