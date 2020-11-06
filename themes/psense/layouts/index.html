@@ -1,4 +1,19 @@
 {{ define "main"}}
- {{ .Content }}
+ 
+ <div class="hero">
+    <div class="inner">
+        <img src="logo.png" width="244" alt="Product Sense" /><br/>
+        <p class="dim">{{ .Content }}</p>
+    </div>
+</div>
+<div class="content" style="text-align: center; padding: 32px;">
+    <h3>Latest Articles</h3>
+    <ul class="article-list">
+        {{ range (where .Site.RegularPages "Type" "in" "posts") }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+    {{- partial "subscribe.html" . -}}
+</div>    
 {{ end }}
 
