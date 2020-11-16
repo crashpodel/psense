@@ -64,7 +64,7 @@ As a wireframing-focused tool, Balsamiq helps you work quickly by giving you
 
 a) a extensive set of ready-made UI components.
 
-b) a user interface that is tailored towards helping your choose these components easily. You can pick them through the tab menu menu on top, or (as I prefer) use the handy search bar.
+b) a user interface that is tailored towards helping you choose these components easily. You can pick them through the tab menu menu on top, or (as I prefer) use the handy search bar.
 
 ![Balamiq has UI components out of the box](/balsamiq-components.png)
 
